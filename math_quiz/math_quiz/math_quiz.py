@@ -57,6 +57,6 @@ def math_quiz():
             print(f"Wrong answer. The correct answer is {answer}.")
 
     print(f"\nGame over! Your score is: {score}/{total_questions}")
-
+    
 if __name__ == "__main__":
     math_quiz()
