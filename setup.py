@@ -7,7 +7,9 @@ setup(
     author='Alap Mundayoor',
     license='Apache',
     packages=['math_quiz'],
-    install_requires=['random', 'unittest'                    
+    install_requires=[
+        # No external dependencies for this code
+                    
                       ],
 
     classifiers=[
