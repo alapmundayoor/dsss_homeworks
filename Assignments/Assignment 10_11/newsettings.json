@@ -1,0 +1,11 @@
+{
+  "title": { 
+                  "window title" : "Alap Mundayoor",
+                  "button" : "open image"
+           },
+  "defaults": {
+      "language": "english",
+      "width" : 500,
+      "height": 500 
+  }
+}
